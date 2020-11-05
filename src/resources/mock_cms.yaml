@@ -1,0 +1,617 @@
+root: 
+ contentSlots: 
+  contentSlot: 
+   element: 
+    - 
+   components: 
+      component: 
+       element: 
+        container: false
+        modifiedTime: "2020-04-29T19:09:11.212Z"
+        name: "Breadcrumb CMS Component"
+        typeCode: BreadcrumbComponent
+        uid: breadcrumbComponent
+        uuid: eyJpdGVtSWQiOiJicmVhZGNydW1iQ29tcG9uZW50IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+     name: "Bottom Header"
+     position: BottomHeaderSlot
+     slotId: BottomHeaderSlot
+     slotShared: true
+     slotUuid: eyJpdGVtSWQiOiJCb3R0b21IZWFkZXJTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+    - 
+   components: 
+      component: 
+       element: 
+        container: false
+        displayProductImages: true
+        displayProducts: true
+        displaySuggestions: true
+        maxProducts: 5
+        maxSuggestions: 5
+        minCharactersBeforeRequest: 0
+        modifiedTime: "2020-04-29T19:09:10.696Z"
+        name: "Search Box"
+        typeCode: SearchBoxComponent
+        uid: SearchBox
+        uuid: "eyJpdGVtSWQiOiJTZWFyY2hCb3giLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+        waitTimeBeforeRequest: 0
+     name: "Search Box"
+     position: SearchBox3
+     slotId: SearchBoxSlot
+     slotShared: true
+     slotUuid: eyJpdGVtSWQiOiJTZWFyY2hCb3hTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+    - 
+   components: 
+      component: 
+       element: 
+        container: false
+        displayProductImages: true
+        displayProducts: true
+        displaySuggestions: true
+        maxProducts: 5
+        maxSuggestions: 5
+        minCharactersBeforeRequest: 0
+        modifiedTime: "2020-04-29T19:09:10.696Z"
+        name: "Search Box"
+        typeCode: SearchBoxComponent
+        uid: SearchBox
+        uuid: "eyJpdGVtSWQiOiJTZWFyY2hCb3giLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+        waitTimeBeforeRequest: 0
+     name: "Search Box"
+     position: SearchBox23
+     slotId: SearchBoxSlot
+     slotShared: true
+     slotUuid: eyJpdGVtSWQiOiJTZWFyY2hCb3hTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+    - 
+   components: 
+      component: 
+       element: 
+        container: false
+        displayProductImages: true
+        displayProducts: true
+        displaySuggestions: true
+        maxProducts: 5
+        maxSuggestions: 5
+        minCharactersBeforeRequest: 0
+        modifiedTime: "2020-04-29T19:09:10.696Z"
+        name: "Search Box"
+        typeCode: SearchBoxComponent
+        uid: SearchBox
+        uuid: "eyJpdGVtSWQiOiJTZWFyY2hCb3giLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+        waitTimeBeforeRequest: 0
+     name: "Search Box"
+     position: SearchBox1
+     slotId: SearchBoxSlot
+     slotShared: true
+     slotUuid: eyJpdGVtSWQiOiJTZWFyY2hCb3hTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+    - 
+   components: 
+      component: ""
+     name: "Header links"
+     position: HeaderLinks
+     slotId: HeaderLinksSlot
+     slotShared: true
+     slotUuid: "eyJpdGVtSWQiOiJIZWFkZXJMaW5rc1Nsb3QiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+    - 
+   components: 
+      component: ""
+     name: "Header links"
+     position: HeaderLinks
+     slotId: HeaderLinksSlot
+     slotShared: true
+     slotUuid: "eyJpdGVtSWQiOiJIZWFkZXJMaW5rc1Nsb3QiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+    - 
+   components: 
+      component: ""
+     name: "Placeholder for Addon tag files"
+     position: PlaceholderContentSlot
+     slotId: PlaceholderContentSlot
+     slotShared: true
+     slotUuid: eyJpdGVtSWQiOiJQbGFjZWhvbGRlckNvbnRlbnRTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+    - 
+   components: 
+      component: ""
+     name: "Top Header"
+     position: TopHeaderSlot
+     slotId: TopHeaderSlot
+     slotShared: true
+     slotUuid: eyJpdGVtSWQiOiJUb3BIZWFkZXJTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+    - 
+   components: 
+      component: 
+       element: 
+        container: false
+        modifiedTime: "2020-04-29T19:09:11.563Z"
+        name: "Product Refinement Facet Component"
+        typeCode: ProductRefinementComponent
+        uid: RefinementFacetComponent
+        uuid: "eyJpdGVtSWQiOiJSZWZpbmVtZW50RmFjZXRDb21wb25lbnQiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+     name: Refinements
+     position: ProductLeftRefinements
+     slotId: ProductLeftRefinements
+     slotShared: true
+     slotUuid: eyJpdGVtSWQiOiJQcm9kdWN0TGVmdFJlZmluZW1lbnRzIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+    - 
+   components: 
+      component: 
+       element: 
+        container: false
+        modifiedTime: "2020-04-29T19:09:17.422Z"
+        name: "Product List Component"
+        typeCode: CMSProductListComponent
+        uid: ProductListComponent
+        uuid: "eyJpdGVtSWQiOiJQcm9kdWN0TGlzdENvbXBvbmVudCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+     name: "Product List Slot for Product List"
+     position: ProductListSlot
+     slotId: ProductListSlot
+     slotShared: true
+     slotUuid: "eyJpdGVtSWQiOiJQcm9kdWN0TGlzdFNsb3QiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+    - 
+   components: 
+      component: 
+       element: 
+        container: false
+        contentPage: homepage
+        contentPageLabelOrId: homepage
+        external: false
+        linkName: Home
+        modifiedTime: "2020-04-29T19:09:58.408Z"
+        name: "Home Page Nav Link"
+        target: false
+        typeCode: CMSLinkComponent
+        uid: HomepageNavLink
+        url: "/"
+        uuid: "eyJpdGVtSWQiOiJIb21lcGFnZU5hdkxpbmsiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+     name: "Default Homepage Link"
+     position: HomepageNavLink
+     slotId: HomepageNavLinkSlot
+     slotShared: true
+     slotUuid: eyJpdGVtSWQiOiJIb21lcGFnZU5hdkxpbmtTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+    - 
+   components: 
+      component: 
+       element: 
+        container: false
+        lightboxBannerComponent: 
+         container: false
+         external: false
+         media: 
+          altText: "Lieferung am nächsten Tag, wenn vor 18 Uhr bestellt wird"
+          code: "Elec_358x45_HomeDeliveryBanner_EN_01.gif"
+          mime: "image/gif"
+          url: "/medias/?context=bWFzdGVyfGltYWdlc3w0MTA5fGltYWdlL2dpZnxoOTEvaDM4Lzg3OTc1MjIwMDE5NTB8OTM1MWFlZmMxYTk2ZDUyY2IyZmZmZmIyMDQ0ZTU1NTYzYWY4ZjJjZTk4ZThiMGM2Y2Y1ZTdhMDZhMmExNDVhNw"
+         name: "Lightbox Home Delivery Banner Component"
+         typeCode: SimpleBannerComponent
+         uid: LightboxHomeDeliveryBannerComponent
+         uuid: "eyJpdGVtSWQiOiJMaWdodGJveEhvbWVEZWxpdmVyeUJhbm5lckNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+        modifiedTime: "2020-04-29T19:09:57.33Z"
+        name: "Mini-Warenkorb"
+        shownProductCount: 3
+        title: "YOUR SHOPPING CART"
+        totalDisplay: SUBTOTAL
+        typeCode: MiniCartComponent
+        uid: MiniCart
+        uuid: "eyJpdGVtSWQiOiJNaW5pQ2FydCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+     name: "Mini Cart"
+     position: MiniCart
+     slotId: MiniCartSlot
+     slotShared: true
+     slotUuid: "eyJpdGVtSWQiOiJNaW5pQ2FydFNsb3QiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+    - 
+   components: 
+      component: 
+       element: 
+        container: false
+        external: false
+        media: 
+         altText: "SAP Commerce"
+         code: "/images/theme/SAP_scrn_R.png"
+         mime: "image/png"
+         url: "/medias/SAP-scrn-R.png?context=bWFzdGVyfGltYWdlc3wxMDEyN3xpbWFnZS9wbmd8aGI4L2hmNS84Nzk3NjYzMDM1NDIyL1NBUF9zY3JuX1IucG5nfDI0NDRlMWY0Y2RiODYwZTg0NjE4NGU1MDYxOTYwNGE5ZjNmNThkY2MwODYxYTg2OGY0MmM0NTUxNzlhZGM0MzQ"
+        modifiedTime: "2020-04-29T19:09:10.948Z"
+        name: "Site Logo Component"
+        typeCode: SimpleBannerComponent
+        uid: SiteLogoComponent
+        urlLink: "/"
+        uuid: "eyJpdGVtSWQiOiJTaXRlTG9nb0NvbXBvbmVudCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+     name: "Default Site Logo Slot"
+     position: SiteLogo
+     slotId: SiteLogoSlot
+     slotShared: true
+     slotUuid: "eyJpdGVtSWQiOiJTaXRlTG9nb1Nsb3QiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+    - 
+   components: 
+      component: 
+       element: 
+        container: false
+        modifiedTime: "2020-04-29T19:09:57.243Z"
+        name: "Category Navigation Component"
+        navigationNode: 
+         children: 
+          element: 
+           - 
+   children: 
+             element: 
+              - 
+   children: ""
+               entries: 
+                element: 
+                 itemId: DigitalCompactsCategoryLink
+                 itemSuperType: AbstractCMSComponent
+                 itemType: CMSLinkComponent
+               uid: DigitalCompactsNavNode
+               uuid: eyJpdGVtSWQiOiJEaWdpdGFsQ29tcGFjdHNOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+              - 
+   children: ""
+               entries: 
+                element: 
+                 itemId: DigitalSLRCategoryLink
+                 itemSuperType: AbstractCMSComponent
+                 itemType: CMSLinkComponent
+               uid: DigitalSLRNavNode
+               uuid: "eyJpdGVtSWQiOiJEaWdpdGFsU0xSTmF2Tm9kZSIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+            entries: 
+             element: 
+              itemId: DigitalCamerasCategoryLink
+              itemSuperType: AbstractCMSComponent
+              itemType: CMSLinkComponent
+            title: "Digital Cameras"
+            uid: DigitalCamerasNavNode
+            uuid: "eyJpdGVtSWQiOiJEaWdpdGFsQ2FtZXJhc05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+           - 
+   children: ""
+            entries: 
+             element: 
+              itemId: FilmCamerasCategoryLink
+              itemSuperType: AbstractCMSComponent
+              itemType: CMSLinkComponent
+            title: "Film Cameras"
+            uid: FilmCamerasNavNode
+            uuid: "eyJpdGVtSWQiOiJGaWxtQ2FtZXJhc05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+           - 
+   children: ""
+            entries: 
+             element: 
+              itemId: HandheldCamcordersCategoryLink
+              itemSuperType: AbstractCMSComponent
+              itemType: CMSLinkComponent
+            title: Camcorders
+            uid: HandheldCamcordersNavNode
+            uuid: eyJpdGVtSWQiOiJIYW5kaGVsZENhbWNvcmRlcnNOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+           - 
+   children: ""
+            entries: 
+             element: 
+              itemId: WebcamsCategoryLink
+              itemSuperType: AbstractCMSComponent
+              itemType: CMSLinkComponent
+            title: Webcams
+            uid: WebcamsNavNode
+            uuid: "eyJpdGVtSWQiOiJXZWJjYW1zTmF2Tm9kZSIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+           - 
+   children: 
+             element: 
+              - 
+   children: 
+                element: 
+                 - 
+   children: ""
+                  entries: 
+                   element: 
+                    itemId: CamerasFlashesCategoryLink
+                    itemSuperType: AbstractCMSComponent
+                    itemType: CMSLinkComponent
+                  uid: CamerasFlashesNavNode
+                  uuid: "eyJpdGVtSWQiOiJDYW1lcmFzRmxhc2hlc05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+                 - 
+   children: ""
+                  entries: 
+                   element: 
+                    itemId: TripodsCategoryLink
+                    itemSuperType: AbstractCMSComponent
+                    itemType: CMSLinkComponent
+                  uid: TripodsNavNode
+                  uuid: "eyJpdGVtSWQiOiJUcmlwb2RzTmF2Tm9kZSIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+                 - 
+   children: ""
+                  entries: 
+                   element: 
+                    itemId: CameraLensesCategoryLink
+                    itemSuperType: AbstractCMSComponent
+                    itemType: CMSLinkComponent
+                  uid: CameraLensesNavNode
+                  uuid: eyJpdGVtSWQiOiJDYW1lcmFMZW5zZXNOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+                 - 
+   children: ""
+                  entries: 
+                   element: 
+                    itemId: PowerSuppliesCategoryLink
+                    itemSuperType: AbstractCMSComponent
+                    itemType: CMSLinkComponent
+                  title: "Power Supplies"
+                  uid: PowerSuppliesNavNode
+                  uuid: "eyJpdGVtSWQiOiJQb3dlclN1cHBsaWVzTmF2Tm9kZSIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+                 - 
+   children: ""
+                  entries: 
+                   element: 
+                    itemId: FlashMemoryCategoryLink
+                    itemSuperType: AbstractCMSComponent
+                    itemType: CMSLinkComponent
+                  title: "Flash Memory"
+                  uid: FlashMemoryNavNode
+                  uuid: "eyJpdGVtSWQiOiJGbGFzaE1lbW9yeU5hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+               entries: ""
+               title: Gear
+               uid: AccessoriesNavNode
+               uuid: "eyJpdGVtSWQiOiJBY2Nlc3Nvcmllc05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+              - 
+   children: 
+                element: 
+                 - 
+   children: ""
+                  entries: 
+                   element: 
+                    itemId: ColourFilmsCategoryLink
+                    itemSuperType: AbstractCMSComponent
+                    itemType: CMSLinkComponent
+                  uid: ColourFilmsNavNode
+                  uuid: "eyJpdGVtSWQiOiJDb2xvdXJGaWxtc05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+                 - 
+   children: ""
+                  entries: 
+                   element: 
+                    itemId: BlackAndWhiteFilmsCategoryLink
+                    itemSuperType: AbstractCMSComponent
+                    itemType: CMSLinkComponent
+                  uid: BlackAndWhiteFilmsNavNode
+                  uuid: eyJpdGVtSWQiOiJCbGFja0FuZFdoaXRlRmlsbXNOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+                 - 
+   children: ""
+                  entries: 
+                   element: 
+                    itemId: BlankVideotapesCategoryLink
+                    itemSuperType: AbstractCMSComponent
+                    itemType: CMSLinkComponent
+                  uid: BlankVideotapesNavNode
+                  uuid: eyJpdGVtSWQiOiJCbGFua1ZpZGVvdGFwZXNOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+               entries: ""
+               title: Supplies
+               uid: SuppliesNavNode
+               uuid: "eyJpdGVtSWQiOiJTdXBwbGllc05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+            entries: 
+             element: 
+              itemId: CameraAccessoriesCategoryLink
+              itemSuperType: AbstractCMSComponent
+              itemType: CMSLinkComponent
+            title: Accessories
+            uid: CameraAccessoriesNavNode
+            uuid: "eyJpdGVtSWQiOiJDYW1lcmFBY2Nlc3Nvcmllc05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+         entries: ""
+         uid: ElectronicsCategoryNavNode
+         uuid: "eyJpdGVtSWQiOiJFbGVjdHJvbmljc0NhdGVnb3J5TmF2Tm9kZSIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+        typeCode: CategoryNavigationComponent
+        uid: ElectronicsCategoryNavComponent
+        uuid: eyJpdGVtSWQiOiJFbGVjdHJvbmljc0NhdGVnb3J5TmF2Q29tcG9uZW50IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+        wrapAfter: 10
+     name: "Navigation Bar"
+     position: NavigationBar
+     slotId: NavigationBarSlot
+     slotShared: true
+     slotUuid: "eyJpdGVtSWQiOiJOYXZpZ2F0aW9uQmFyU2xvdCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+    - 
+   components: 
+      component: 
+       element: 
+        - 
+   container: false
+         modifiedTime: "2020-04-29T19:09:57.156Z"
+         name: "Footer Navigation Component"
+         navigationNode: 
+          children: 
+           element: 
+            - 
+   children: 
+              element: 
+               - 
+   children: ""
+                entries: 
+                 element: 
+                  itemId: AboutSAPCommerceLink
+                  itemSuperType: AbstractCMSComponent
+                  itemType: CMSLinkComponent
+                uid: AboutSAPCommerceNavNode
+                uuid: "eyJpdGVtSWQiOiJBYm91dFNBUENvbW1lcmNlTmF2Tm9kZSIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+               - 
+   children: ""
+                entries: 
+                 element: 
+                  itemId: FAQLink
+                  itemSuperType: AbstractCMSComponent
+                  itemType: CMSLinkComponent
+                uid: FAQNavNode
+                uuid: eyJpdGVtSWQiOiJGQVFOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+             entries: ""
+             title: "SAP Commerce Cloud"
+             uid: SAPCommerceNavNode
+             uuid: "eyJpdGVtSWQiOiJTQVBDb21tZXJjZU5hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+            - 
+   children: 
+              element: 
+               - 
+   children: ""
+                entries: 
+                 element: 
+                  itemId: VisitSAPLink
+                  itemSuperType: AbstractCMSComponent
+                  itemType: CMSLinkComponent
+                uid: AboutSAPCustomerExperienceNavNode
+                uuid: "eyJpdGVtSWQiOiJBYm91dFNBUEN1c3RvbWVyRXhwZXJpZW5jZU5hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+               - 
+   children: ""
+                entries: 
+                 element: 
+                  itemId: ContactUsLink
+                  itemSuperType: AbstractCMSComponent
+                  itemType: CMSLinkComponent
+                uid: ContactUsNavNode
+                uuid: eyJpdGVtSWQiOiJDb250YWN0VXNOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+             entries: ""
+             title: "SAP Customer Experience"
+             uid: SAPCustomerExperienceNavNode
+             uuid: eyJpdGVtSWQiOiJTQVBDdXN0b21lckV4cGVyaWVuY2VOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+            - 
+   children: 
+              element: 
+               - 
+   children: ""
+                entries: 
+                 element: 
+                  itemId: AgileCommerceBlogLink
+                  itemSuperType: AbstractCMSComponent
+                  itemType: CMSLinkComponent
+                uid: AgileCommerceBlogNavNode
+                uuid: "eyJpdGVtSWQiOiJBZ2lsZUNvbW1lcmNlQmxvZ05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+               - 
+   children: ""
+                entries: 
+                 element: 
+                  itemId: LinkedInLink
+                  itemSuperType: AbstractCMSComponent
+                  itemType: CMSLinkComponent
+                uid: LinkedInNavNode
+                uuid: "eyJpdGVtSWQiOiJMaW5rZWRJbk5hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+               - 
+   children: ""
+                entries: 
+                 element: 
+                  itemId: FacebookLink
+                  itemSuperType: AbstractCMSComponent
+                  itemType: CMSLinkComponent
+                uid: FacebookNavNode
+                uuid: "eyJpdGVtSWQiOiJGYWNlYm9va05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+               - 
+   children: ""
+                entries: 
+                 element: 
+                  itemId: TwitterLink
+                  itemSuperType: AbstractCMSComponent
+                  itemType: CMSLinkComponent
+                uid: TwitterNavNode
+                uuid: "eyJpdGVtSWQiOiJUd2l0dGVyTmF2Tm9kZSIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+             entries: ""
+             title: "Follow Us"
+             uid: FollowUsNavNode
+             uuid: "eyJpdGVtSWQiOiJGb2xsb3dVc05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+          entries: ""
+          uid: FooterNavNode
+          uuid: eyJpdGVtSWQiOiJGb290ZXJOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+         notice: "Copyright © 2020 SAP SE or an SAP affiliate company. All rights reserved."
+         showLanguageCurrency: true
+         typeCode: FooterNavigationComponent
+         uid: FooterNavigationComponent
+         uuid: eyJpdGVtSWQiOiJGb290ZXJOYXZpZ2F0aW9uQ29tcG9uZW50IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+         wrapAfter: 4
+        - 
+   container: false
+         flexType: AnonymousConsentOpenDialogComponent
+         modifiedTime: "2020-04-29T19:09:12.518Z"
+         name: "Anonymous Consent Open Dialog Component"
+         typeCode: CMSFlexComponent
+         uid: AnonymousConsentOpenDialogComponent
+         uuid: "eyJpdGVtSWQiOiJBbm9ueW1vdXNDb25zZW50T3BlbkRpYWxvZ0NvbXBvbmVudCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+        - 
+   container: false
+         content: "<div class=\"cx-notice\">Copyright © 2019 SAP SE or an SAP affiliate company. All rights reserved.</div>"
+         modifiedTime: "2020-04-29T19:09:12.614Z"
+         name: "Notice Text Paragraph"
+         typeCode: CMSParagraphComponent
+         uid: NoticeTextParagraph
+         uuid: eyJpdGVtSWQiOiJOb3RpY2VUZXh0UGFyYWdyYXBoIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+        - 
+   container: false
+         flexType: AnonymousConsentManagementBannerComponent
+         modifiedTime: "2020-04-29T19:09:08.967Z"
+         name: "Anonymous Consent Management Banner Component"
+         typeCode: CMSFlexComponent
+         uid: AnonymousConsentManagementBannerComponent
+         uuid: "eyJpdGVtSWQiOiJBbm9ueW1vdXNDb25zZW50TWFuYWdlbWVudEJhbm5lckNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+     name: Footer
+     position: Footer
+     slotId: FooterSlot
+     slotShared: true
+     slotUuid: eyJpdGVtSWQiOiJGb290ZXJTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+    - 
+   components: 
+      component: 
+       element: 
+        - 
+   container: false
+         context: LANGUAGE
+         modifiedTime: "2020-04-29T19:09:35.415Z"
+         name: "Site Languages"
+         typeCode: CMSSiteContextComponent
+         uid: LanguageComponent
+         uuid: "eyJpdGVtSWQiOiJMYW5ndWFnZUNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+        - 
+   container: false
+         context: CURRENCY
+         modifiedTime: "2020-04-29T19:09:35.375Z"
+         name: "Site Currencies"
+         typeCode: CMSSiteContextComponent
+         uid: CurrencyComponent
+         uuid: "eyJpdGVtSWQiOiJDdXJyZW5jeUNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+     name: "Site Context Slot"
+     position: SiteContext
+     slotId: SiteContextSlot
+     slotShared: true
+     slotUuid: "eyJpdGVtSWQiOiJTaXRlQ29udGV4dFNsb3QiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+    - 
+   components: 
+      component: 
+       element: 
+        - 
+   container: false
+         contentPage: storefinderPage
+         contentPageLabelOrId: "/store-finder"
+         external: false
+         linkName: "Find a Store"
+         modifiedTime: "2020-04-29T19:09:13.341Z"
+         name: "Store Finder Link"
+         target: false
+         typeCode: CMSLinkComponent
+         uid: StoreFinderLink
+         url: "/store-finder"
+         uuid: "eyJpdGVtSWQiOiJTdG9yZUZpbmRlckxpbmsiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0="
+        - 
+   container: false
+         external: false
+         linkName: "Contact Us"
+         modifiedTime: "2020-04-29T19:09:12.352Z"
+         name: "Contact Us Link"
+         target: false
+         typeCode: CMSLinkComponent
+         uid: ContactUsLink
+         url: "/contact"
+         uuid: eyJpdGVtSWQiOiJDb250YWN0VXNMaW5rIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+        - 
+   container: false
+         external: false
+         linkName: Help
+         modifiedTime: "2020-04-29T19:09:12.436Z"
+         name: "Help Link"
+         target: false
+         typeCode: CMSLinkComponent
+         uid: HelpLink
+         url: "/faq"
+         uuid: "eyJpdGVtSWQiOiJIZWxwTGluayIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="
+     name: "Slot contains some links"
+     position: SiteLinks
+     slotId: SiteLinksSlot
+     slotShared: true
+     slotUuid: eyJpdGVtSWQiOiJTaXRlTGlua3NTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9
+ name: "Product List"
+ template: ProductListPageTemplate
+ title: "Product List"
+ typeCode: CategoryPage
+ uid: productList
+ uuid: "eyJpdGVtSWQiOiJwcm9kdWN0TGlzdCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ=="

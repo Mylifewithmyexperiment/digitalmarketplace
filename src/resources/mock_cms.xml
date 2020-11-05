@@ -1,0 +1,765 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <contentSlots>
+      <contentSlot>
+         <element>
+            <components>
+               <component>
+                  <element>
+                     <container>false</container>
+                     <modifiedTime>2020-04-29T19:09:11.212Z</modifiedTime>
+                     <name>Breadcrumb CMS Component</name>
+                     <typeCode>BreadcrumbComponent</typeCode>
+                     <uid>breadcrumbComponent</uid>
+                     <uuid>eyJpdGVtSWQiOiJicmVhZGNydW1iQ29tcG9uZW50IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</uuid>
+                  </element>
+               </component>
+            </components>
+            <name>Bottom Header</name>
+            <position>BottomHeaderSlot</position>
+            <slotId>BottomHeaderSlot</slotId>
+            <slotShared>true</slotShared>
+            <slotUuid>eyJpdGVtSWQiOiJCb3R0b21IZWFkZXJTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</slotUuid>
+         </element>
+         <element>
+            <components>
+               <component>
+                  <element>
+                     <container>false</container>
+                     <displayProductImages>true</displayProductImages>
+                     <displayProducts>true</displayProducts>
+                     <displaySuggestions>true</displaySuggestions>
+                     <maxProducts>5</maxProducts>
+                     <maxSuggestions>5</maxSuggestions>
+                     <minCharactersBeforeRequest>0</minCharactersBeforeRequest>
+                     <modifiedTime>2020-04-29T19:09:10.696Z</modifiedTime>
+                     <name>Search Box</name>
+                     <typeCode>SearchBoxComponent</typeCode>
+                     <uid>SearchBox</uid>
+                     <uuid>eyJpdGVtSWQiOiJTZWFyY2hCb3giLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                     <waitTimeBeforeRequest>0</waitTimeBeforeRequest>
+                  </element>
+               </component>
+            </components>
+            <name>Search Box</name>
+            <position>SearchBox3</position>
+            <slotId>SearchBoxSlot</slotId>
+            <slotShared>true</slotShared>
+            <slotUuid>eyJpdGVtSWQiOiJTZWFyY2hCb3hTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</slotUuid>
+         </element>
+         <element>
+            <components>
+               <component>
+                  <element>
+                     <container>false</container>
+                     <displayProductImages>true</displayProductImages>
+                     <displayProducts>true</displayProducts>
+                     <displaySuggestions>true</displaySuggestions>
+                     <maxProducts>5</maxProducts>
+                     <maxSuggestions>5</maxSuggestions>
+                     <minCharactersBeforeRequest>0</minCharactersBeforeRequest>
+                     <modifiedTime>2020-04-29T19:09:10.696Z</modifiedTime>
+                     <name>Search Box</name>
+                     <typeCode>SearchBoxComponent</typeCode>
+                     <uid>SearchBox</uid>
+                     <uuid>eyJpdGVtSWQiOiJTZWFyY2hCb3giLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                     <waitTimeBeforeRequest>0</waitTimeBeforeRequest>
+                  </element>
+               </component>
+            </components>
+            <name>Search Box</name>
+            <position>SearchBox23</position>
+            <slotId>SearchBoxSlot</slotId>
+            <slotShared>true</slotShared>
+            <slotUuid>eyJpdGVtSWQiOiJTZWFyY2hCb3hTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</slotUuid>
+         </element>
+         <element>
+            <components>
+               <component>
+                  <element>
+                     <container>false</container>
+                     <displayProductImages>true</displayProductImages>
+                     <displayProducts>true</displayProducts>
+                     <displaySuggestions>true</displaySuggestions>
+                     <maxProducts>5</maxProducts>
+                     <maxSuggestions>5</maxSuggestions>
+                     <minCharactersBeforeRequest>0</minCharactersBeforeRequest>
+                     <modifiedTime>2020-04-29T19:09:10.696Z</modifiedTime>
+                     <name>Search Box</name>
+                     <typeCode>SearchBoxComponent</typeCode>
+                     <uid>SearchBox</uid>
+                     <uuid>eyJpdGVtSWQiOiJTZWFyY2hCb3giLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                     <waitTimeBeforeRequest>0</waitTimeBeforeRequest>
+                  </element>
+               </component>
+            </components>
+            <name>Search Box</name>
+            <position>SearchBox1</position>
+            <slotId>SearchBoxSlot</slotId>
+            <slotShared>true</slotShared>
+            <slotUuid>eyJpdGVtSWQiOiJTZWFyY2hCb3hTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</slotUuid>
+         </element>
+         <element>
+            <components>
+               <component />
+            </components>
+            <name>Header links</name>
+            <position>HeaderLinks</position>
+            <slotId>HeaderLinksSlot</slotId>
+            <slotShared>true</slotShared>
+            <slotUuid>eyJpdGVtSWQiOiJIZWFkZXJMaW5rc1Nsb3QiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</slotUuid>
+         </element>
+         <element>
+            <components>
+               <component />
+            </components>
+            <name>Header links</name>
+            <position>HeaderLinks</position>
+            <slotId>HeaderLinksSlot</slotId>
+            <slotShared>true</slotShared>
+            <slotUuid>eyJpdGVtSWQiOiJIZWFkZXJMaW5rc1Nsb3QiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</slotUuid>
+         </element>
+         <element>
+            <components>
+               <component />
+            </components>
+            <name>Placeholder for Addon tag files</name>
+            <position>PlaceholderContentSlot</position>
+            <slotId>PlaceholderContentSlot</slotId>
+            <slotShared>true</slotShared>
+            <slotUuid>eyJpdGVtSWQiOiJQbGFjZWhvbGRlckNvbnRlbnRTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</slotUuid>
+         </element>
+         <element>
+            <components>
+               <component />
+            </components>
+            <name>Top Header</name>
+            <position>TopHeaderSlot</position>
+            <slotId>TopHeaderSlot</slotId>
+            <slotShared>true</slotShared>
+            <slotUuid>eyJpdGVtSWQiOiJUb3BIZWFkZXJTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</slotUuid>
+         </element>
+         <element>
+            <components>
+               <component>
+                  <element>
+                     <container>false</container>
+                     <modifiedTime>2020-04-29T19:09:11.563Z</modifiedTime>
+                     <name>Product Refinement Facet Component</name>
+                     <typeCode>ProductRefinementComponent</typeCode>
+                     <uid>RefinementFacetComponent</uid>
+                     <uuid>eyJpdGVtSWQiOiJSZWZpbmVtZW50RmFjZXRDb21wb25lbnQiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                  </element>
+               </component>
+            </components>
+            <name>Refinements</name>
+            <position>ProductLeftRefinements</position>
+            <slotId>ProductLeftRefinements</slotId>
+            <slotShared>true</slotShared>
+            <slotUuid>eyJpdGVtSWQiOiJQcm9kdWN0TGVmdFJlZmluZW1lbnRzIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</slotUuid>
+         </element>
+         <element>
+            <components>
+               <component>
+                  <element>
+                     <container>false</container>
+                     <modifiedTime>2020-04-29T19:09:17.422Z</modifiedTime>
+                     <name>Product List Component</name>
+                     <typeCode>CMSProductListComponent</typeCode>
+                     <uid>ProductListComponent</uid>
+                     <uuid>eyJpdGVtSWQiOiJQcm9kdWN0TGlzdENvbXBvbmVudCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==</uuid>
+                  </element>
+               </component>
+            </components>
+            <name>Product List Slot for Product List</name>
+            <position>ProductListSlot</position>
+            <slotId>ProductListSlot</slotId>
+            <slotShared>true</slotShared>
+            <slotUuid>eyJpdGVtSWQiOiJQcm9kdWN0TGlzdFNsb3QiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</slotUuid>
+         </element>
+         <element>
+            <components>
+               <component>
+                  <element>
+                     <container>false</container>
+                     <contentPage>homepage</contentPage>
+                     <contentPageLabelOrId>homepage</contentPageLabelOrId>
+                     <external>false</external>
+                     <linkName>Home</linkName>
+                     <modifiedTime>2020-04-29T19:09:58.408Z</modifiedTime>
+                     <name>Home Page Nav Link</name>
+                     <target>false</target>
+                     <typeCode>CMSLinkComponent</typeCode>
+                     <uid>HomepageNavLink</uid>
+                     <url>/</url>
+                     <uuid>eyJpdGVtSWQiOiJIb21lcGFnZU5hdkxpbmsiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                  </element>
+               </component>
+            </components>
+            <name>Default Homepage Link</name>
+            <position>HomepageNavLink</position>
+            <slotId>HomepageNavLinkSlot</slotId>
+            <slotShared>true</slotShared>
+            <slotUuid>eyJpdGVtSWQiOiJIb21lcGFnZU5hdkxpbmtTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</slotUuid>
+         </element>
+         <element>
+            <components>
+               <component>
+                  <element>
+                     <container>false</container>
+                     <lightboxBannerComponent>
+                        <container>false</container>
+                        <external>false</external>
+                        <media>
+                           <altText>Lieferung am nächsten Tag, wenn vor 18 Uhr bestellt wird</altText>
+                           <code>Elec_358x45_HomeDeliveryBanner_EN_01.gif</code>
+                           <mime>image/gif</mime>
+                           <url>/medias/?context=bWFzdGVyfGltYWdlc3w0MTA5fGltYWdlL2dpZnxoOTEvaDM4Lzg3OTc1MjIwMDE5NTB8OTM1MWFlZmMxYTk2ZDUyY2IyZmZmZmIyMDQ0ZTU1NTYzYWY4ZjJjZTk4ZThiMGM2Y2Y1ZTdhMDZhMmExNDVhNw</url>
+                        </media>
+                        <name>Lightbox Home Delivery Banner Component</name>
+                        <typeCode>SimpleBannerComponent</typeCode>
+                        <uid>LightboxHomeDeliveryBannerComponent</uid>
+                        <uuid>eyJpdGVtSWQiOiJMaWdodGJveEhvbWVEZWxpdmVyeUJhbm5lckNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==</uuid>
+                     </lightboxBannerComponent>
+                     <modifiedTime>2020-04-29T19:09:57.33Z</modifiedTime>
+                     <name>Mini-Warenkorb</name>
+                     <shownProductCount>3</shownProductCount>
+                     <title>YOUR SHOPPING CART</title>
+                     <totalDisplay>SUBTOTAL</totalDisplay>
+                     <typeCode>MiniCartComponent</typeCode>
+                     <uid>MiniCart</uid>
+                     <uuid>eyJpdGVtSWQiOiJNaW5pQ2FydCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==</uuid>
+                  </element>
+               </component>
+            </components>
+            <name>Mini Cart</name>
+            <position>MiniCart</position>
+            <slotId>MiniCartSlot</slotId>
+            <slotShared>true</slotShared>
+            <slotUuid>eyJpdGVtSWQiOiJNaW5pQ2FydFNsb3QiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</slotUuid>
+         </element>
+         <element>
+            <components>
+               <component>
+                  <element>
+                     <container>false</container>
+                     <external>false</external>
+                     <media>
+                        <altText>SAP Commerce</altText>
+                        <code>/images/theme/SAP_scrn_R.png</code>
+                        <mime>image/png</mime>
+                        <url>/medias/SAP-scrn-R.png?context=bWFzdGVyfGltYWdlc3wxMDEyN3xpbWFnZS9wbmd8aGI4L2hmNS84Nzk3NjYzMDM1NDIyL1NBUF9zY3JuX1IucG5nfDI0NDRlMWY0Y2RiODYwZTg0NjE4NGU1MDYxOTYwNGE5ZjNmNThkY2MwODYxYTg2OGY0MmM0NTUxNzlhZGM0MzQ</url>
+                     </media>
+                     <modifiedTime>2020-04-29T19:09:10.948Z</modifiedTime>
+                     <name>Site Logo Component</name>
+                     <typeCode>SimpleBannerComponent</typeCode>
+                     <uid>SiteLogoComponent</uid>
+                     <urlLink>/</urlLink>
+                     <uuid>eyJpdGVtSWQiOiJTaXRlTG9nb0NvbXBvbmVudCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==</uuid>
+                  </element>
+               </component>
+            </components>
+            <name>Default Site Logo Slot</name>
+            <position>SiteLogo</position>
+            <slotId>SiteLogoSlot</slotId>
+            <slotShared>true</slotShared>
+            <slotUuid>eyJpdGVtSWQiOiJTaXRlTG9nb1Nsb3QiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</slotUuid>
+         </element>
+         <element>
+            <components>
+               <component>
+                  <element>
+                     <container>false</container>
+                     <modifiedTime>2020-04-29T19:09:57.243Z</modifiedTime>
+                     <name>Category Navigation Component</name>
+                     <navigationNode>
+                        <children>
+                           <element>
+                              <children>
+                                 <element>
+                                    <children />
+                                    <entries>
+                                       <element>
+                                          <itemId>DigitalCompactsCategoryLink</itemId>
+                                          <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                          <itemType>CMSLinkComponent</itemType>
+                                       </element>
+                                    </entries>
+                                    <uid>DigitalCompactsNavNode</uid>
+                                    <uuid>eyJpdGVtSWQiOiJEaWdpdGFsQ29tcGFjdHNOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</uuid>
+                                 </element>
+                                 <element>
+                                    <children />
+                                    <entries>
+                                       <element>
+                                          <itemId>DigitalSLRCategoryLink</itemId>
+                                          <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                          <itemType>CMSLinkComponent</itemType>
+                                       </element>
+                                    </entries>
+                                    <uid>DigitalSLRNavNode</uid>
+                                    <uuid>eyJpdGVtSWQiOiJEaWdpdGFsU0xSTmF2Tm9kZSIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==</uuid>
+                                 </element>
+                              </children>
+                              <entries>
+                                 <element>
+                                    <itemId>DigitalCamerasCategoryLink</itemId>
+                                    <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                    <itemType>CMSLinkComponent</itemType>
+                                 </element>
+                              </entries>
+                              <title>Digital Cameras</title>
+                              <uid>DigitalCamerasNavNode</uid>
+                              <uuid>eyJpdGVtSWQiOiJEaWdpdGFsQ2FtZXJhc05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                           </element>
+                           <element>
+                              <children />
+                              <entries>
+                                 <element>
+                                    <itemId>FilmCamerasCategoryLink</itemId>
+                                    <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                    <itemType>CMSLinkComponent</itemType>
+                                 </element>
+                              </entries>
+                              <title>Film Cameras</title>
+                              <uid>FilmCamerasNavNode</uid>
+                              <uuid>eyJpdGVtSWQiOiJGaWxtQ2FtZXJhc05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                           </element>
+                           <element>
+                              <children />
+                              <entries>
+                                 <element>
+                                    <itemId>HandheldCamcordersCategoryLink</itemId>
+                                    <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                    <itemType>CMSLinkComponent</itemType>
+                                 </element>
+                              </entries>
+                              <title>Camcorders</title>
+                              <uid>HandheldCamcordersNavNode</uid>
+                              <uuid>eyJpdGVtSWQiOiJIYW5kaGVsZENhbWNvcmRlcnNOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</uuid>
+                           </element>
+                           <element>
+                              <children />
+                              <entries>
+                                 <element>
+                                    <itemId>WebcamsCategoryLink</itemId>
+                                    <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                    <itemType>CMSLinkComponent</itemType>
+                                 </element>
+                              </entries>
+                              <title>Webcams</title>
+                              <uid>WebcamsNavNode</uid>
+                              <uuid>eyJpdGVtSWQiOiJXZWJjYW1zTmF2Tm9kZSIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==</uuid>
+                           </element>
+                           <element>
+                              <children>
+                                 <element>
+                                    <children>
+                                       <element>
+                                          <children />
+                                          <entries>
+                                             <element>
+                                                <itemId>CamerasFlashesCategoryLink</itemId>
+                                                <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                                <itemType>CMSLinkComponent</itemType>
+                                             </element>
+                                          </entries>
+                                          <uid>CamerasFlashesNavNode</uid>
+                                          <uuid>eyJpdGVtSWQiOiJDYW1lcmFzRmxhc2hlc05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                                       </element>
+                                       <element>
+                                          <children />
+                                          <entries>
+                                             <element>
+                                                <itemId>TripodsCategoryLink</itemId>
+                                                <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                                <itemType>CMSLinkComponent</itemType>
+                                             </element>
+                                          </entries>
+                                          <uid>TripodsNavNode</uid>
+                                          <uuid>eyJpdGVtSWQiOiJUcmlwb2RzTmF2Tm9kZSIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==</uuid>
+                                       </element>
+                                       <element>
+                                          <children />
+                                          <entries>
+                                             <element>
+                                                <itemId>CameraLensesCategoryLink</itemId>
+                                                <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                                <itemType>CMSLinkComponent</itemType>
+                                             </element>
+                                          </entries>
+                                          <uid>CameraLensesNavNode</uid>
+                                          <uuid>eyJpdGVtSWQiOiJDYW1lcmFMZW5zZXNOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</uuid>
+                                       </element>
+                                       <element>
+                                          <children />
+                                          <entries>
+                                             <element>
+                                                <itemId>PowerSuppliesCategoryLink</itemId>
+                                                <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                                <itemType>CMSLinkComponent</itemType>
+                                             </element>
+                                          </entries>
+                                          <title>Power Supplies</title>
+                                          <uid>PowerSuppliesNavNode</uid>
+                                          <uuid>eyJpdGVtSWQiOiJQb3dlclN1cHBsaWVzTmF2Tm9kZSIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==</uuid>
+                                       </element>
+                                       <element>
+                                          <children />
+                                          <entries>
+                                             <element>
+                                                <itemId>FlashMemoryCategoryLink</itemId>
+                                                <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                                <itemType>CMSLinkComponent</itemType>
+                                             </element>
+                                          </entries>
+                                          <title>Flash Memory</title>
+                                          <uid>FlashMemoryNavNode</uid>
+                                          <uuid>eyJpdGVtSWQiOiJGbGFzaE1lbW9yeU5hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                                       </element>
+                                    </children>
+                                    <entries />
+                                    <title>Gear</title>
+                                    <uid>AccessoriesNavNode</uid>
+                                    <uuid>eyJpdGVtSWQiOiJBY2Nlc3Nvcmllc05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                                 </element>
+                                 <element>
+                                    <children>
+                                       <element>
+                                          <children />
+                                          <entries>
+                                             <element>
+                                                <itemId>ColourFilmsCategoryLink</itemId>
+                                                <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                                <itemType>CMSLinkComponent</itemType>
+                                             </element>
+                                          </entries>
+                                          <uid>ColourFilmsNavNode</uid>
+                                          <uuid>eyJpdGVtSWQiOiJDb2xvdXJGaWxtc05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                                       </element>
+                                       <element>
+                                          <children />
+                                          <entries>
+                                             <element>
+                                                <itemId>BlackAndWhiteFilmsCategoryLink</itemId>
+                                                <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                                <itemType>CMSLinkComponent</itemType>
+                                             </element>
+                                          </entries>
+                                          <uid>BlackAndWhiteFilmsNavNode</uid>
+                                          <uuid>eyJpdGVtSWQiOiJCbGFja0FuZFdoaXRlRmlsbXNOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</uuid>
+                                       </element>
+                                       <element>
+                                          <children />
+                                          <entries>
+                                             <element>
+                                                <itemId>BlankVideotapesCategoryLink</itemId>
+                                                <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                                <itemType>CMSLinkComponent</itemType>
+                                             </element>
+                                          </entries>
+                                          <uid>BlankVideotapesNavNode</uid>
+                                          <uuid>eyJpdGVtSWQiOiJCbGFua1ZpZGVvdGFwZXNOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</uuid>
+                                       </element>
+                                    </children>
+                                    <entries />
+                                    <title>Supplies</title>
+                                    <uid>SuppliesNavNode</uid>
+                                    <uuid>eyJpdGVtSWQiOiJTdXBwbGllc05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                                 </element>
+                              </children>
+                              <entries>
+                                 <element>
+                                    <itemId>CameraAccessoriesCategoryLink</itemId>
+                                    <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                    <itemType>CMSLinkComponent</itemType>
+                                 </element>
+                              </entries>
+                              <title>Accessories</title>
+                              <uid>CameraAccessoriesNavNode</uid>
+                              <uuid>eyJpdGVtSWQiOiJDYW1lcmFBY2Nlc3Nvcmllc05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                           </element>
+                        </children>
+                        <entries />
+                        <uid>ElectronicsCategoryNavNode</uid>
+                        <uuid>eyJpdGVtSWQiOiJFbGVjdHJvbmljc0NhdGVnb3J5TmF2Tm9kZSIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==</uuid>
+                     </navigationNode>
+                     <typeCode>CategoryNavigationComponent</typeCode>
+                     <uid>ElectronicsCategoryNavComponent</uid>
+                     <uuid>eyJpdGVtSWQiOiJFbGVjdHJvbmljc0NhdGVnb3J5TmF2Q29tcG9uZW50IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</uuid>
+                     <wrapAfter>10</wrapAfter>
+                  </element>
+               </component>
+            </components>
+            <name>Navigation Bar</name>
+            <position>NavigationBar</position>
+            <slotId>NavigationBarSlot</slotId>
+            <slotShared>true</slotShared>
+            <slotUuid>eyJpdGVtSWQiOiJOYXZpZ2F0aW9uQmFyU2xvdCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==</slotUuid>
+         </element>
+         <element>
+            <components>
+               <component>
+                  <element>
+                     <container>false</container>
+                     <modifiedTime>2020-04-29T19:09:57.156Z</modifiedTime>
+                     <name>Footer Navigation Component</name>
+                     <navigationNode>
+                        <children>
+                           <element>
+                              <children>
+                                 <element>
+                                    <children />
+                                    <entries>
+                                       <element>
+                                          <itemId>AboutSAPCommerceLink</itemId>
+                                          <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                          <itemType>CMSLinkComponent</itemType>
+                                       </element>
+                                    </entries>
+                                    <uid>AboutSAPCommerceNavNode</uid>
+                                    <uuid>eyJpdGVtSWQiOiJBYm91dFNBUENvbW1lcmNlTmF2Tm9kZSIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==</uuid>
+                                 </element>
+                                 <element>
+                                    <children />
+                                    <entries>
+                                       <element>
+                                          <itemId>FAQLink</itemId>
+                                          <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                          <itemType>CMSLinkComponent</itemType>
+                                       </element>
+                                    </entries>
+                                    <uid>FAQNavNode</uid>
+                                    <uuid>eyJpdGVtSWQiOiJGQVFOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</uuid>
+                                 </element>
+                              </children>
+                              <entries />
+                              <title>SAP Commerce Cloud</title>
+                              <uid>SAPCommerceNavNode</uid>
+                              <uuid>eyJpdGVtSWQiOiJTQVBDb21tZXJjZU5hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                           </element>
+                           <element>
+                              <children>
+                                 <element>
+                                    <children />
+                                    <entries>
+                                       <element>
+                                          <itemId>VisitSAPLink</itemId>
+                                          <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                          <itemType>CMSLinkComponent</itemType>
+                                       </element>
+                                    </entries>
+                                    <uid>AboutSAPCustomerExperienceNavNode</uid>
+                                    <uuid>eyJpdGVtSWQiOiJBYm91dFNBUEN1c3RvbWVyRXhwZXJpZW5jZU5hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                                 </element>
+                                 <element>
+                                    <children />
+                                    <entries>
+                                       <element>
+                                          <itemId>ContactUsLink</itemId>
+                                          <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                          <itemType>CMSLinkComponent</itemType>
+                                       </element>
+                                    </entries>
+                                    <uid>ContactUsNavNode</uid>
+                                    <uuid>eyJpdGVtSWQiOiJDb250YWN0VXNOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</uuid>
+                                 </element>
+                              </children>
+                              <entries />
+                              <title>SAP Customer Experience</title>
+                              <uid>SAPCustomerExperienceNavNode</uid>
+                              <uuid>eyJpdGVtSWQiOiJTQVBDdXN0b21lckV4cGVyaWVuY2VOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</uuid>
+                           </element>
+                           <element>
+                              <children>
+                                 <element>
+                                    <children />
+                                    <entries>
+                                       <element>
+                                          <itemId>AgileCommerceBlogLink</itemId>
+                                          <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                          <itemType>CMSLinkComponent</itemType>
+                                       </element>
+                                    </entries>
+                                    <uid>AgileCommerceBlogNavNode</uid>
+                                    <uuid>eyJpdGVtSWQiOiJBZ2lsZUNvbW1lcmNlQmxvZ05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                                 </element>
+                                 <element>
+                                    <children />
+                                    <entries>
+                                       <element>
+                                          <itemId>LinkedInLink</itemId>
+                                          <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                          <itemType>CMSLinkComponent</itemType>
+                                       </element>
+                                    </entries>
+                                    <uid>LinkedInNavNode</uid>
+                                    <uuid>eyJpdGVtSWQiOiJMaW5rZWRJbk5hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                                 </element>
+                                 <element>
+                                    <children />
+                                    <entries>
+                                       <element>
+                                          <itemId>FacebookLink</itemId>
+                                          <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                          <itemType>CMSLinkComponent</itemType>
+                                       </element>
+                                    </entries>
+                                    <uid>FacebookNavNode</uid>
+                                    <uuid>eyJpdGVtSWQiOiJGYWNlYm9va05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                                 </element>
+                                 <element>
+                                    <children />
+                                    <entries>
+                                       <element>
+                                          <itemId>TwitterLink</itemId>
+                                          <itemSuperType>AbstractCMSComponent</itemSuperType>
+                                          <itemType>CMSLinkComponent</itemType>
+                                       </element>
+                                    </entries>
+                                    <uid>TwitterNavNode</uid>
+                                    <uuid>eyJpdGVtSWQiOiJUd2l0dGVyTmF2Tm9kZSIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==</uuid>
+                                 </element>
+                              </children>
+                              <entries />
+                              <title>Follow Us</title>
+                              <uid>FollowUsNavNode</uid>
+                              <uuid>eyJpdGVtSWQiOiJGb2xsb3dVc05hdk5vZGUiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                           </element>
+                        </children>
+                        <entries />
+                        <uid>FooterNavNode</uid>
+                        <uuid>eyJpdGVtSWQiOiJGb290ZXJOYXZOb2RlIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</uuid>
+                     </navigationNode>
+                     <notice>Copyright © 2020 SAP SE or an SAP affiliate company. All rights reserved.</notice>
+                     <showLanguageCurrency>true</showLanguageCurrency>
+                     <typeCode>FooterNavigationComponent</typeCode>
+                     <uid>FooterNavigationComponent</uid>
+                     <uuid>eyJpdGVtSWQiOiJGb290ZXJOYXZpZ2F0aW9uQ29tcG9uZW50IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</uuid>
+                     <wrapAfter>4</wrapAfter>
+                  </element>
+                  <element>
+                     <container>false</container>
+                     <flexType>AnonymousConsentOpenDialogComponent</flexType>
+                     <modifiedTime>2020-04-29T19:09:12.518Z</modifiedTime>
+                     <name>Anonymous Consent Open Dialog Component</name>
+                     <typeCode>CMSFlexComponent</typeCode>
+                     <uid>AnonymousConsentOpenDialogComponent</uid>
+                     <uuid>eyJpdGVtSWQiOiJBbm9ueW1vdXNDb25zZW50T3BlbkRpYWxvZ0NvbXBvbmVudCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==</uuid>
+                  </element>
+                  <element>
+                     <container>false</container>
+                     <content>&lt;div class="cx-notice"&gt;Copyright © 2019 SAP SE or an SAP affiliate company. All rights reserved.&lt;/div&gt;</content>
+                     <modifiedTime>2020-04-29T19:09:12.614Z</modifiedTime>
+                     <name>Notice Text Paragraph</name>
+                     <typeCode>CMSParagraphComponent</typeCode>
+                     <uid>NoticeTextParagraph</uid>
+                     <uuid>eyJpdGVtSWQiOiJOb3RpY2VUZXh0UGFyYWdyYXBoIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</uuid>
+                  </element>
+                  <element>
+                     <container>false</container>
+                     <flexType>AnonymousConsentManagementBannerComponent</flexType>
+                     <modifiedTime>2020-04-29T19:09:08.967Z</modifiedTime>
+                     <name>Anonymous Consent Management Banner Component</name>
+                     <typeCode>CMSFlexComponent</typeCode>
+                     <uid>AnonymousConsentManagementBannerComponent</uid>
+                     <uuid>eyJpdGVtSWQiOiJBbm9ueW1vdXNDb25zZW50TWFuYWdlbWVudEJhbm5lckNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==</uuid>
+                  </element>
+               </component>
+            </components>
+            <name>Footer</name>
+            <position>Footer</position>
+            <slotId>FooterSlot</slotId>
+            <slotShared>true</slotShared>
+            <slotUuid>eyJpdGVtSWQiOiJGb290ZXJTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</slotUuid>
+         </element>
+         <element>
+            <components>
+               <component>
+                  <element>
+                     <container>false</container>
+                     <context>LANGUAGE</context>
+                     <modifiedTime>2020-04-29T19:09:35.415Z</modifiedTime>
+                     <name>Site Languages</name>
+                     <typeCode>CMSSiteContextComponent</typeCode>
+                     <uid>LanguageComponent</uid>
+                     <uuid>eyJpdGVtSWQiOiJMYW5ndWFnZUNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==</uuid>
+                  </element>
+                  <element>
+                     <container>false</container>
+                     <context>CURRENCY</context>
+                     <modifiedTime>2020-04-29T19:09:35.375Z</modifiedTime>
+                     <name>Site Currencies</name>
+                     <typeCode>CMSSiteContextComponent</typeCode>
+                     <uid>CurrencyComponent</uid>
+                     <uuid>eyJpdGVtSWQiOiJDdXJyZW5jeUNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==</uuid>
+                  </element>
+               </component>
+            </components>
+            <name>Site Context Slot</name>
+            <position>SiteContext</position>
+            <slotId>SiteContextSlot</slotId>
+            <slotShared>true</slotShared>
+            <slotUuid>eyJpdGVtSWQiOiJTaXRlQ29udGV4dFNsb3QiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</slotUuid>
+         </element>
+         <element>
+            <components>
+               <component>
+                  <element>
+                     <container>false</container>
+                     <contentPage>storefinderPage</contentPage>
+                     <contentPageLabelOrId>/store-finder</contentPageLabelOrId>
+                     <external>false</external>
+                     <linkName>Find a Store</linkName>
+                     <modifiedTime>2020-04-29T19:09:13.341Z</modifiedTime>
+                     <name>Store Finder Link</name>
+                     <target>false</target>
+                     <typeCode>CMSLinkComponent</typeCode>
+                     <uid>StoreFinderLink</uid>
+                     <url>/store-finder</url>
+                     <uuid>eyJpdGVtSWQiOiJTdG9yZUZpbmRlckxpbmsiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=</uuid>
+                  </element>
+                  <element>
+                     <container>false</container>
+                     <external>false</external>
+                     <linkName>Contact Us</linkName>
+                     <modifiedTime>2020-04-29T19:09:12.352Z</modifiedTime>
+                     <name>Contact Us Link</name>
+                     <target>false</target>
+                     <typeCode>CMSLinkComponent</typeCode>
+                     <uid>ContactUsLink</uid>
+                     <url>/contact</url>
+                     <uuid>eyJpdGVtSWQiOiJDb250YWN0VXNMaW5rIiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</uuid>
+                  </element>
+                  <element>
+                     <container>false</container>
+                     <external>false</external>
+                     <linkName>Help</linkName>
+                     <modifiedTime>2020-04-29T19:09:12.436Z</modifiedTime>
+                     <name>Help Link</name>
+                     <target>false</target>
+                     <typeCode>CMSLinkComponent</typeCode>
+                     <uid>HelpLink</uid>
+                     <url>/faq</url>
+                     <uuid>eyJpdGVtSWQiOiJIZWxwTGluayIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==</uuid>
+                  </element>
+               </component>
+            </components>
+            <name>Slot contains some links</name>
+            <position>SiteLinks</position>
+            <slotId>SiteLinksSlot</slotId>
+            <slotShared>true</slotShared>
+            <slotUuid>eyJpdGVtSWQiOiJTaXRlTGlua3NTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9</slotUuid>
+         </element>
+      </contentSlot>
+   </contentSlots>
+   <name>Product List</name>
+   <template>ProductListPageTemplate</template>
+   <title>Product List</title>
+   <typeCode>CategoryPage</typeCode>
+   <uid>productList</uid>
+   <uuid>eyJpdGVtSWQiOiJwcm9kdWN0TGlzdCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==</uuid>
+</root>
+
