@@ -40,7 +40,7 @@ class PersonalDetails extends React.Component {
                     {/* <p> {sec_para} </p> */}
                     {/* <Ulinfo /> */}
                     <ul className="personal_info" >
-                        <li> <i className="fas fa-calendar-week"></i> 10 October </li>
+                        <li> <i className="fas fa-calendar-week"></i> 10th October </li>
                         <li> <i className="fas fa-phone"></i> {personal_details_component_data.mobileNo}</li>
                         <li> <i className="fas fa-envelope"></i> {personal_details_component_data.email}</li>
                         <li> <i className="fas fa-home"></i>  {personal_details_component_data.location}</li>
