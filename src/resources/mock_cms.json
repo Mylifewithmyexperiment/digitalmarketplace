@@ -1,173 +1,162 @@
 {
-   "uid": "productList",
-   "name": "Product List",
-   "contentSlots": {
-      "contentSlot": [
-         {
-            "slotId": "personalDetails",
-            "component_type": "Basic Details",
-            "name": "Shashi Jaiswal",
-            "experience": "2+ years+",
-            "branch": "CSE",
-            "technology": "React & Redux Developer",
-            "designation": "Software Engineerer",
-            "description": "Experienced Software Developer with more than 2+yearsof experience in REACT JS .Demonstrated history of working in the information technology Data structure, algorithm, skilled in React, Redux,java script Java, spring, HTML, CSS. ",
-            "mobileNo": "+91 6202875803",
-            "skype": "Shashi.jaiswal80",
-            "email":"shashi.jaiswal17@gmail.com",
-            "first_company": "Sterlite Tech(AMD)(may2019-present)",
-            "second_company": "Reliance Jio(NHQ)(june2018-april2019)"
-         },
-         {
-            "slotId": "SearchBoxSlot",
-            "slotUuid": "eyJpdGVtSWQiOiJTZWFyY2hCb3hTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
-            "position": "SearchBox3",
-            "name": "Search Box",
-            "slotShared": true,
-            "components": {
-               "component": [
-                  {
-                     "uid": "SearchBox",
-                     "uuid": "eyJpdGVtSWQiOiJTZWFyY2hCb3giLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
-                     "typeCode": "SearchBoxComponent",
-                     "modifiedTime": "2020-04-29T19:09:10.696Z",
-                     "name": "Search Box",
-                     "container": "false",
-                     "maxSuggestions": "5",
-                     "maxProducts": "5",
-                     "displaySuggestions": "true",
-                     "displayProducts": "true",
-                     "displayProductImages": "true",
-                     "waitTimeBeforeRequest": "0",
-                     "minCharactersBeforeRequest": "0"
-                  }
-               ]
-            }
-         },
-         {
-            "slotId": "SearchBoxSlot",
-            "slotUuid": "eyJpdGVtSWQiOiJTZWFyY2hCb3hTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
-            "position": "SearchBox23",
-            "name": "Search Box2",
-            "slotShared": true,
-            "components": {
-               "component": [
-                  {
-                     "uid": "SearchBox",
-                     "uuid": "eyJpdGVtSWQiOiJTZWFyY2hCb3giLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
-                     "typeCode": "SearchBoxComponent",
-                     "modifiedTime": "2020-04-29T19:09:10.696Z",
-                     "name": "Search Box",
-                     "container": "false",
-                     "maxSuggestions": "5",
-                     "maxProducts": "5",
-                     "displaySuggestions": "true",
-                     "displayProducts": "true",
-                     "displayProductImages": "true",
-                     "waitTimeBeforeRequest": "0",
-                     "minCharactersBeforeRequest": "0"
-                  }
-               ]
-            }
-         },
-         {
-            "slotId": "SearchBoxSlot",
-            "slotUuid": "eyJpdGVtSWQiOiJTZWFyY2hCb3hTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
-            "position": "SearchBox1",
-            "name": "Search Box",
-            "slotShared": true,
-            "components": {
-               "component": [
-                  {
-                     "uid": "SearchBox",
-                     "uuid": "eyJpdGVtSWQiOiJTZWFyY2hCb3giLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
-                     "typeCode": "SearchBoxComponent",
-                     "modifiedTime": "2020-04-29T19:09:10.696Z",
-                     "name": "Search Box",
-                     "container": "false",
-                     "maxSuggestions": "5",
-                     "maxProducts": "5",
-                     "displaySuggestions": "true",
-                     "displayProducts": "true",
-                     "displayProductImages": "true",
-                     "waitTimeBeforeRequest": "0",
-                     "minCharactersBeforeRequest": "0"
-                  }
-               ]
-            }
-         },
-         {
-            "slotId": "MiniCartSlot",
-            "slotUuid": "eyJpdGVtSWQiOiJNaW5pQ2FydFNsb3QiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
-            "position": "MiniCart from json",
-            "name": "Mini Cart",
-            "slotShared": true,
-            "components": {
-               "component": [
-                  {
-                     "uid": "MiniCart",
-                     "uuid": "eyJpdGVtSWQiOiJNaW5pQ2FydCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
-                     "typeCode": "MiniCartComponent",
-                     "modifiedTime": "2020-04-29T19:09:57.33Z",
-                     "name": "Mini-Warenkorb",
-                     "container": "false",
-                     "shownProductCount": "3",
-                     "totalDisplay": "SUBTOTAL",
-                     "title": "YOUR SHOPPING CART",
-                     "lightboxBannerComponent": {
+    "uid": "productList",
+    "name": "Product List",
+    "contentSlots": {
+        "contentSlot": [{
+                "slotId": "personalDetails",
+                "component_type": "Basic Details",
+                "name": "Shashi Jaiswal",
+                "experience": "2+ years",
+                "branch": "CSE Department",
+                "technology": "React & Redux Developer",
+                "designation": "Software Engineerer",
+                "description": "Experienced Software Developer with more than 2+yearsof experience in REACT JS .Demonstrated history of working in the information technology Data structure, algorithm, skilled in React, Redux,java script Java, spring, HTML, CSS. ",
+                "mobileNo": "+91-6202875803",
+                "skype": "Shashi.jaiswal80",
+                "email": "shashi.jaiswal17@gmail.com",
+                "first_company": "Sterlite Tech(AMD)(may2019-present)",
+                "second_company": "Reliance Jio(NHQ)(june2018-april2019)"
+            },
+            {
+                "slotId": "SearchBoxSlot",
+                "slotUuid": "eyJpdGVtSWQiOiJTZWFyY2hCb3hTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+                "position": "SearchBox3",
+                "name": "Search Box",
+                "slotShared": true,
+                "components": {
+                    "component": [{
+                        "uid": "SearchBox",
+                        "uuid": "eyJpdGVtSWQiOiJTZWFyY2hCb3giLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
+                        "typeCode": "SearchBoxComponent",
+                        "modifiedTime": "2020-04-29T19:09:10.696Z",
+                        "name": "Search Box",
                         "container": "false",
-                        "uid": "LightboxHomeDeliveryBannerComponent",
-                        "external": "false",
-                        "name": "Lightbox Home Delivery Banner Component",
-                        "media": {
-                           "code": "Elec_358x45_HomeDeliveryBanner_EN_01.gif",
-                           "mime": "image/gif",
-                           "altText": "Lieferung am nächsten Tag, wenn vor 18 Uhr bestellt wird",
-                           "url": "/medias/?context=bWFzdGVyfGltYWdlc3w0MTA5fGltYWdlL2dpZnxoOTEvaDM4Lzg3OTc1MjIwMDE5NTB8OTM1MWFlZmMxYTk2ZDUyY2IyZmZmZmIyMDQ0ZTU1NTYzYWY4ZjJjZTk4ZThiMGM2Y2Y1ZTdhMDZhMmExNDVhNw"
-                        },
-                        "uuid": "eyJpdGVtSWQiOiJMaWdodGJveEhvbWVEZWxpdmVyeUJhbm5lckNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
-                        "typeCode": "SimpleBannerComponent"
-                     }
-                  }
-               ]
-            }
-         },
-         {
-            "slotId": "MiniCartSlot3",
-            "slotUuid": "eyJpdGVtSWQiOiJNaW5pQ2FydFNsb3QiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
-            "position": "MiniCart4",
-            "name": "Mini Cart",
-            "slotShared": true,
-            "components": {
-               "component": [
-                  {
-                     "uid": "MiniCart",
-                     "uuid": "eyJpdGVtSWQiOiJNaW5pQ2FydCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
-                     "typeCode": "MiniCartComponent",
-                     "modifiedTime": "2020-04-29T19:09:57.33Z",
-                     "name": "Mini-Warenkorb",
-                     "container": "false",
-                     "shownProductCount": "3",
-                     "totalDisplay": "SUBTOTAL",
-                     "title": "YOUR SHOPPING CART",
-                     "lightboxBannerComponent": {
+                        "maxSuggestions": "5",
+                        "maxProducts": "5",
+                        "displaySuggestions": "true",
+                        "displayProducts": "true",
+                        "displayProductImages": "true",
+                        "waitTimeBeforeRequest": "0",
+                        "minCharactersBeforeRequest": "0"
+                    }]
+                }
+            },
+            {
+                "slotId": "SearchBoxSlot",
+                "slotUuid": "eyJpdGVtSWQiOiJTZWFyY2hCb3hTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+                "position": "SearchBox23",
+                "name": "Search Box2",
+                "slotShared": true,
+                "components": {
+                    "component": [{
+                        "uid": "SearchBox",
+                        "uuid": "eyJpdGVtSWQiOiJTZWFyY2hCb3giLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
+                        "typeCode": "SearchBoxComponent",
+                        "modifiedTime": "2020-04-29T19:09:10.696Z",
+                        "name": "Search Box",
                         "container": "false",
-                        "uid": "LightboxHomeDeliveryBannerComponent",
-                        "external": "false",
-                        "name": "Lightbox Home Delivery Banner Component",
-                        "media": {
-                           "code": "Elec_358x45_HomeDeliveryBanner_EN_01.gif",
-                           "mime": "image/gif",
-                           "altText": "Lieferung am nächsten Tag, wenn vor 18 Uhr bestellt wird",
-                           "url": "/medias/?context=bWFzdGVyfGltYWdlc3w0MTA5fGltYWdlL2dpZnxoOTEvaDM4Lzg3OTc1MjIwMDE5NTB8OTM1MWFlZmMxYTk2ZDUyY2IyZmZmZmIyMDQ0ZTU1NTYzYWY4ZjJjZTk4ZThiMGM2Y2Y1ZTdhMDZhMmExNDVhNw"
-                        },
-                        "uuid": "eyJpdGVtSWQiOiJMaWdodGJveEhvbWVEZWxpdmVyeUJhbm5lckNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
-                        "typeCode": "SimpleBannerComponent"
-                     }
-                  }
-               ]
+                        "maxSuggestions": "5",
+                        "maxProducts": "5",
+                        "displaySuggestions": "true",
+                        "displayProducts": "true",
+                        "displayProductImages": "true",
+                        "waitTimeBeforeRequest": "0",
+                        "minCharactersBeforeRequest": "0"
+                    }]
+                }
+            },
+            {
+                "slotId": "SearchBoxSlot",
+                "slotUuid": "eyJpdGVtSWQiOiJTZWFyY2hCb3hTbG90IiwiY2F0YWxvZ0lkIjoiZWxlY3Ryb25pY3Mtc3BhQ29udGVudENhdGFsb2ciLCJjYXRhbG9nVmVyc2lvbiI6Ik9ubGluZSJ9",
+                "position": "SearchBox1",
+                "name": "Search Box",
+                "slotShared": true,
+                "components": {
+                    "component": [{
+                        "uid": "SearchBox",
+                        "uuid": "eyJpdGVtSWQiOiJTZWFyY2hCb3giLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
+                        "typeCode": "SearchBoxComponent",
+                        "modifiedTime": "2020-04-29T19:09:10.696Z",
+                        "name": "Search Box",
+                        "container": "false",
+                        "maxSuggestions": "5",
+                        "maxProducts": "5",
+                        "displaySuggestions": "true",
+                        "displayProducts": "true",
+                        "displayProductImages": "true",
+                        "waitTimeBeforeRequest": "0",
+                        "minCharactersBeforeRequest": "0"
+                    }]
+                }
+            },
+            {
+                "slotId": "MiniCartSlot",
+                "slotUuid": "eyJpdGVtSWQiOiJNaW5pQ2FydFNsb3QiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
+                "position": "MiniCart from json",
+                "name": "Mini Cart",
+                "slotShared": true,
+                "components": {
+                    "component": [{
+                        "uid": "MiniCart",
+                        "uuid": "eyJpdGVtSWQiOiJNaW5pQ2FydCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+                        "typeCode": "MiniCartComponent",
+                        "modifiedTime": "2020-04-29T19:09:57.33Z",
+                        "name": "Mini-Warenkorb",
+                        "container": "false",
+                        "shownProductCount": "3",
+                        "totalDisplay": "SUBTOTAL",
+                        "title": "YOUR SHOPPING CART",
+                        "lightboxBannerComponent": {
+                            "container": "false",
+                            "uid": "LightboxHomeDeliveryBannerComponent",
+                            "external": "false",
+                            "name": "Lightbox Home Delivery Banner Component",
+                            "media": {
+                                "code": "Elec_358x45_HomeDeliveryBanner_EN_01.gif",
+                                "mime": "image/gif",
+                                "altText": "Lieferung am nächsten Tag, wenn vor 18 Uhr bestellt wird",
+                                "url": "/medias/?context=bWFzdGVyfGltYWdlc3w0MTA5fGltYWdlL2dpZnxoOTEvaDM4Lzg3OTc1MjIwMDE5NTB8OTM1MWFlZmMxYTk2ZDUyY2IyZmZmZmIyMDQ0ZTU1NTYzYWY4ZjJjZTk4ZThiMGM2Y2Y1ZTdhMDZhMmExNDVhNw"
+                            },
+                            "uuid": "eyJpdGVtSWQiOiJMaWdodGJveEhvbWVEZWxpdmVyeUJhbm5lckNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+                            "typeCode": "SimpleBannerComponent"
+                        }
+                    }]
+                }
+            },
+            {
+                "slotId": "MiniCartSlot3",
+                "slotUuid": "eyJpdGVtSWQiOiJNaW5pQ2FydFNsb3QiLCJjYXRhbG9nSWQiOiJlbGVjdHJvbmljcy1zcGFDb250ZW50Q2F0YWxvZyIsImNhdGFsb2dWZXJzaW9uIjoiT25saW5lIn0=",
+                "position": "MiniCart4",
+                "name": "Mini Cart",
+                "slotShared": true,
+                "components": {
+                    "component": [{
+                        "uid": "MiniCart",
+                        "uuid": "eyJpdGVtSWQiOiJNaW5pQ2FydCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+                        "typeCode": "MiniCartComponent",
+                        "modifiedTime": "2020-04-29T19:09:57.33Z",
+                        "name": "Mini-Warenkorb",
+                        "container": "false",
+                        "shownProductCount": "3",
+                        "totalDisplay": "SUBTOTAL",
+                        "title": "YOUR SHOPPING CART",
+                        "lightboxBannerComponent": {
+                            "container": "false",
+                            "uid": "LightboxHomeDeliveryBannerComponent",
+                            "external": "false",
+                            "name": "Lightbox Home Delivery Banner Component",
+                            "media": {
+                                "code": "Elec_358x45_HomeDeliveryBanner_EN_01.gif",
+                                "mime": "image/gif",
+                                "altText": "Lieferung am nächsten Tag, wenn vor 18 Uhr bestellt wird",
+                                "url": "/medias/?context=bWFzdGVyfGltYWdlc3w0MTA5fGltYWdlL2dpZnxoOTEvaDM4Lzg3OTc1MjIwMDE5NTB8OTM1MWFlZmMxYTk2ZDUyY2IyZmZmZmIyMDQ0ZTU1NTYzYWY4ZjJjZTk4ZThiMGM2Y2Y1ZTdhMDZhMmExNDVhNw"
+                            },
+                            "uuid": "eyJpdGVtSWQiOiJMaWdodGJveEhvbWVEZWxpdmVyeUJhbm5lckNvbXBvbmVudCIsImNhdGFsb2dJZCI6ImVsZWN0cm9uaWNzLXNwYUNvbnRlbnRDYXRhbG9nIiwiY2F0YWxvZ1ZlcnNpb24iOiJPbmxpbmUifQ==",
+                            "typeCode": "SimpleBannerComponent"
+                        }
+                    }]
+                }
             }
-         }
-      ]
-   }
+        ]
+    }
 }

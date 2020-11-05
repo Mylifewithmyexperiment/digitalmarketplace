@@ -5,7 +5,7 @@ import {
 
 export const sendSearchBoxComponentData = (params) => {
   return {
-    type: SEARCH_BOX_COMPONENT_DATA,
+    type : SEARCH_BOX_COMPONENT_DATA,
     params,
   };
 };
