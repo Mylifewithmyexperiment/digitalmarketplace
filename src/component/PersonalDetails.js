@@ -2,7 +2,7 @@ import React from 'react';
 import { component_details } from '../utils/CMSAdapter';
 import "../CSS/homepage.css"
 import '../CSS/List_info.css'
-import profile_pic from '../img/profile_pic.png'
+ import profile_pic from "../img/profile_pic.png"
  
 class PersonalDetails extends React.Component {
     constructor() {
@@ -11,10 +11,9 @@ class PersonalDetails extends React.Component {
             component_type: "Basic Details",
         }
     }
-    style = {
-        color: " #111 ",
-    };
+        
     render() {
+    
 
         var personal_details = component_details(this.props.personal_details_id, this.state.component_type)
         let personal_details_component_data = "";
@@ -24,7 +23,7 @@ class PersonalDetails extends React.Component {
         console.log("Standard data after translation :- " + JSON.stringify(personal_details_component_data))
 
         return (
-
+            
             <div className="home_main">
                 <div className="left_side">
                     {/* <small>  "hello everybody, i am" </small> */}
@@ -70,7 +69,7 @@ class PersonalDetails extends React.Component {
                 </div>
             </div>
 
-
+            
 
         )
 

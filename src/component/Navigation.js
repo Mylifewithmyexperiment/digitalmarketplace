@@ -15,7 +15,7 @@ function Navigation() {
            <div className="links">
              <NavLink exact activeClassName='nav_active' to ="/"> <i className="fas fa-home" ></i> <span>Home</span> </NavLink>
              <NavLink exact activeClassName='nav_active' to ="/skills"> <i className="fas fa-lightbulb"></i><span>Skills</span> </NavLink>
-             <NavLink activeClassName='nav_active' to ="/gallery"> <i className="fas fa-camera-retro"></i>  <span>Project</span> </NavLink>
+             <NavLink activeClassName='nav_active' to ="/reduxblog"> <i className="fas fa-camera-retro"></i>  <span>Redux-Blogs</span> </NavLink>
              <NavLink exact activeClassName='nav_active' to ="/contacts"> <i className="fas fa-phone"></i>  <span>Contacts</span> </NavLink>
            </div>
             

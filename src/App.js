@@ -9,6 +9,8 @@ import { bindActionCreators } from "redux";
 import * as Actions from "./action/index";
 import Navigation from "./component/Navigation";
 import skills from "./component/Skills";
+import ContactsUs from "./component/ContactsUs";
+import ReduxBLog from "./component/ReduxBLog";
  
  
 
@@ -29,6 +31,8 @@ function App() {
           <Route exact path="/" component={HomePage}></Route>
           <Route exact path="/searchbox" component={SearchBox}></Route>
           <Route exact path="/skills" component={skills}></Route>
+          <Route exact path="/contacts" component={ContactsUs}></Route>
+          <Route exact path ="/reduxblog" component={ReduxBLog}></Route>
         </Switch>
       </Router>
     </div>
